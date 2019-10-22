@@ -1,0 +1,35 @@
+body {
+  padding: 10% 0;
+}
+
+.green-background {
+  background-color: green;
+  color: white;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+  color: white;
+}
+
+.dark-background {
+  background-color: black;
+  color: grey;
+}
+
+.light-background {
+  background: url('../img/morty.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+  color: white;
+}
+
+.mort-head {
+  width: 50px;
+  height: 50px;
+}
